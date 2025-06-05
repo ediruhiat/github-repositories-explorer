@@ -5,6 +5,9 @@ A fast, lightweight React app (powered by [Vite](https://vitejs.dev/)) for searc
 ---
 
 ## 🖼 Preview
+Demo: https://github-repositories-explorer-3b38.vercel.app
+
+![Preview Image](preview/preview_w.png)
 
 **Interaction Flow:**
 
