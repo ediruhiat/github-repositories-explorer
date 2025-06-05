@@ -24,6 +24,7 @@ export default tseslint.config(
         { allowConstantExport: true },
       ],
       semi: ["off"],
+      "no-unused-vars" :["off"]
     },
   }
 );
